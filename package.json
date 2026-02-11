@@ -1,0 +1,14 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "description": "Practica 2, post /echo ,envio de json , /fragmenta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Alvarado Venegas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
