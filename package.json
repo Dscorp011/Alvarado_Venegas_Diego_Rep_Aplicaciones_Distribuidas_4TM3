@@ -1,0 +1,21 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "Práctica 3 Aplicaciones distribuidas: Servicios Restful con nODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Npm",
+    "Express",
+    "Restful",
+    "Json",
+    "Postman"
+  ],
+  "author": "Diego Alvarado Venegas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
