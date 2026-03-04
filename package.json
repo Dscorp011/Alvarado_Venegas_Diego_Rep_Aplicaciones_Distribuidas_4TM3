@@ -1,0 +1,20 @@
+{
+  "name": "p6",
+  "version": "1.0.0",
+  "description": "Práctica 6 Aplicaciones distribuidas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MongoDB",
+    "Json",
+    "Server"
+  ],
+  "author": "Alvarado Venegas Diego",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^7.1.0"
+  }
+}
