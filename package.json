@@ -1,0 +1,19 @@
+{
+  "name": "p7",
+  "version": "1.0.0",
+  "description": "Práctica 7 ",
+  "main": "insertMongoDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Insert"
+  ],
+  "author": "Alvarado Venegas Diego",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}
