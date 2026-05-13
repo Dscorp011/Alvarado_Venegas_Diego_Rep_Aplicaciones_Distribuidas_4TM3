@@ -1,7 +1,9 @@
-function saludo() {
+function Saludo(props) {
     return (
         <div>
-            <h1>Buenos días</h1>
+            <h1>Buenos {props.tipo} {props.nombre}</h1>
         </div>
     );
-}export default saludo;
+}
+
+export default Saludo;

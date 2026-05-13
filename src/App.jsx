@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-      <div>
-        <Saludo />
-      </div>
+        <div>
+            <Saludo nombre="Juan" tipo="días" />
+        </div>
     </>
   )
 }
